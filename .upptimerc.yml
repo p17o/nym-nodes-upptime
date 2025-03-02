@@ -3,14 +3,22 @@ owner: p17o # Your GitHub organization or username, where this repository lives
 repo: nym-nodes-upptime # The name of this repository
 
 sites:
-  - name: nym-node ch
+  - name: nym-node ch - swagger API
     url: https://nym-exit.ch-node1.p17o.com/api/v1/swagger/#/
-  - name: nym-node pt
+  - name: nym-node ch - landing page
+    url: https://nym-exit.ch-node1.p17o.com/
+  - name: nym-node pt - swagger API
     url: https://nym-exit.pt-node1.p17o.com/api/v1/swagger/#/
-  - name: nym-node fr
+  - name: nym-node pt - landing page
+    url: https://nym-exit.pt-node1.p17o.com/
+  - name: nym-node fr - swagger API
     url: https://nym-exit.fr-node1.p17o.com/api/v1/swagger/#/
-  - name: nym-node pl
+  - name: nym-node fr - landing page
+    url: https://nym-exit.fr-node1.p17o.com/
+  - name: nym-node pl - swagger API
     url: https://nym-exit.pl-node1.p17o.com/api/v1/swagger/#/
+  - name: nym-node pl - landing page
+    url: https://nym-exit.pl-node1.p17o.com/
 
 
 status-website:
@@ -20,13 +28,13 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status Page for Oceanus Nym Nodes
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  #navbar:
+  #  - title: Status
+  #    href: /
+  #  - title: GitHub
+  #    href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
