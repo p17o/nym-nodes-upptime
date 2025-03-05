@@ -1,7 +1,7 @@
 url: https://nym-exit.ch-node1.p17o.com/
-status: down
-code: 502
-responseTime: 97
-lastUpdated: 2025-03-05T16:52:10.716Z
+status: up
+code: 200
+responseTime: 164
+lastUpdated: 2025-03-05T16:59:38.832Z
 startTime: 2025-03-02T23:47:02.970Z
 generator: Upptime <https://github.com/upptime/upptime>
