@@ -4,19 +4,19 @@
     "url": "https://nym-exit.ch-node1.p17o.com/api/v1/swagger/#/",
     "icon": "https://icons.duckduckgo.com/ip3/nym-exit.ch-node1.p17o.com.ico",
     "slug": "nym-node-ch-swagger-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 557,
-    "timeDay": 490,
-    "timeWeek": 557,
-    "timeMonth": 557,
-    "timeYear": 557,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 566,
+    "timeDay": 516,
+    "timeWeek": 566,
+    "timeMonth": 566,
+    "timeYear": 566,
     "dailyMinutesDown": {
-      "2025-03-05": 0
+      "2025-03-05": 7
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://nym-exit.ch-node1.p17o.com/",
     "icon": "https://icons.duckduckgo.com/ip3/nym-exit.ch-node1.p17o.com.ico",
     "slug": "nym-node-ch-landing-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 133,
-    "timeDay": 116,
-    "timeWeek": 133,
-    "timeMonth": 133,
-    "timeYear": 133,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 137,
+    "timeDay": 126,
+    "timeWeek": 137,
+    "timeMonth": 137,
+    "timeYear": 137,
     "dailyMinutesDown": {
-      "2025-03-05": 0
+      "2025-03-05": 7
     }
   },
   {
