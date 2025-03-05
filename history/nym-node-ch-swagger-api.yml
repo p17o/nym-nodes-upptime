@@ -1,7 +1,7 @@
 url: https://nym-exit.ch-node1.p17o.com/api/v1/swagger/#/
-status: down
-code: 502
-responseTime: 424
-lastUpdated: 2025-03-05T16:52:08.512Z
+status: up
+code: 200
+responseTime: 621
+lastUpdated: 2025-03-05T16:59:35.869Z
 startTime: 2025-03-02T23:47:01.943Z
 generator: Upptime <https://github.com/upptime/upptime>
